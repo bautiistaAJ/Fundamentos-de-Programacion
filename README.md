@@ -2,4 +2,8 @@
 
 Instituto Tecnologico de Acapulco
 
-Asesor: Bautista de Jesus Arturo 
+Asesor: Arturo Bautista de Jesus
+
+
+
+                Todos los programas aquí publicados son para uso educativo y recreativo
