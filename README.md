@@ -1,4 +1,4 @@
-# Fundamentos de Programacion
+# Fundamentos de Programación
 
 Instituto Tecnologico de Acapulco
 
