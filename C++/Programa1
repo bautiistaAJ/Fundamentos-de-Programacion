@@ -1,1 +1,9 @@
-/* Enter code for c++ */
+#include<iostream>
+
+using namespace std;
+
+int main(){
+	cout<<"Hola Ingenieros";
+	
+	return 0;
+}
