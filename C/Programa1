@@ -1,9 +1,9 @@
-#include<stdio.h> /*Libreriass*/
+#include<stdio.h> /*Librerias*/
 
 
 int main(){ /*main principal "cuerpo del programa"*/
 
-	printf("Hola chicos del ITA");/*La funcion "printf" imprime en consola todo lo que se coloque dentro de las comillas "" */
+	printf("Hola Ingenieros");/*La funcion "printf" imprime en consola todo lo que se coloque dentro de las comillas "" */
 	
 	return 0;/*Nos retorna un cero al finalizar el programa*/
 }
